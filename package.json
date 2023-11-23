@@ -1,0 +1,19 @@
+{
+  "name": "callbacksum---npm",
+  "version": "1.0.0",
+  "description": "This pacakage is a callback sum calculator that keeps track of the running sum of numerical values passed to it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm rum test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Bisma-Aslam/Node-Package.git)"
+  },
+  "keywords": [
+    "NPM",
+    "Tutorial"
+  ],
+  "author": "Bisma Aslam",
+  "license": "ISC"
+}
